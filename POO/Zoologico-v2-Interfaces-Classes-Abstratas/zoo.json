@@ -1,0 +1,32 @@
+{
+  "@class":"br.edu.ifpb.dominio.Zoologico",
+  "animais":[
+    {
+      "@class":"br.edu.ifpb.dominio.Leao",
+      "id":4,
+      "nome":"Bx",
+      "tamanhoDaJuba":30
+    },
+    {
+      "@class":"br.edu.ifpb.dominio.Elefante",
+      "id":3,
+      "nome":"Nsei",
+      "peso":50
+    },
+    {
+      "@class":"br.edu.ifpb.dominio.Zebra",
+      "id":18549939269841,
+      "nome":"Witória",
+      "quantidadeListras":40
+    },
+    {
+      "@class":"br.edu.ifpb.dominio.Leao",
+      "id":1,
+      "nome":"Z",
+      "tamanhoDaJuba":50
+    }
+  ],
+  "geradorId":{
+    "@class":"br.edu.ifpb.geradorId.GeradorIdNanotime"
+  }
+}
